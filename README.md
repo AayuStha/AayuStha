@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [www.aayushrestha.com](www.aayushrestha.com)
+- 👨‍💻 You can know more about me on [www.aayushrestha.com](www.aayushrestha.com)
 
 - 💬 Ask me about **react, ejs and gsap**
 
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayustha&show_icons=true&locale=en&layout=compact" alt="aayustha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayustha&show_icons=true&locale=en" alt="aayustha" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayustha&" alt="aayustha" /></p>

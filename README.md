@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">A passionate fullstack developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **MarvelPopExpress**
+- 🔭 I’m currently working on **PopVerseNepal**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently **FULL-STACK INTERN**
 
 - 👨‍💻 You can know more about me on [www.aayushrestha.com](www.aayushrestha.com)
 
-- 💬 Ask me about **react, ejs and gsap**
+- 💬 Ask me about **MERN, GSAP, DOCKER**
 
 - 📫 How to reach me **contact@aayushrestha.com**
 

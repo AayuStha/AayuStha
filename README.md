@@ -7,8 +7,6 @@
 
 - 👨‍💻 You can know more about me on [www.aayushrestha.com](www.aayushrestha.com)
 
-- 💬 Ask me about **MERN, GSAP, DOCKER**
-
 - 📫 How to reach me **contact@aayushrestha.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**

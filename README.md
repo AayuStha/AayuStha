@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">A passionate fullstack developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **PopVerseNepal**
+- 🔭 I’m currently working on **Rendyx**
 
-- 🌱 I’m currently **FULL-STACK INTERN**
+- 🌱 I’m currently **FULL-STACK DEVELOPER*
 
 - 👨‍💻 You can know more about me on [www.aayushrestha.com](www.aayushrestha.com)
 

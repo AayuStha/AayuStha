@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rendyx**
 
-- 🌱 I’m currently **FULL-STACK DEVELOPER*
+- 🌱 I’m currently **FULL-STACK DEVELOPER**
 
 - 👨‍💻 You can know more about me on [www.aayushrestha.com](www.aayushrestha.com)
 
